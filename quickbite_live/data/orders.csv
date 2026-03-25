@@ -1,0 +1,859 @@
+order_id,timestamp,branch,cashier,item,quantity,unit_price,total_price,payment
+1,2026-03-20 14:54:39,Trans-Ekulu,Chukwudi,Moi Moi,3,500,1500,POS
+2,2026-03-20 14:54:54,Independence Layout,Uche,Chicken Burger,5,1500,7500,Transfer
+3,2026-03-20 14:55:09,GRA,Uche,Peppered Chicken,2,1100,2200,Cash
+4,2026-03-20 14:55:24,Trans-Ekulu,Adaeze,Moi Moi,3,500,1500,Transfer
+5,2026-03-20 14:55:39,Trans-Ekulu,Uche,Meat Pie,3,400,1200,Transfer
+6,2026-03-20 14:55:54,New Haven,Ngozi,Moi Moi,4,500,2000,Cash
+7,2026-03-20 14:56:09,Trans-Ekulu,Adaeze,Chapman,3,600,1800,POS
+8,2026-03-20 14:56:24,Independence Layout,Chioma,Zobo Drink,3,300,900,POS
+9,2026-03-20 14:56:39,Trans-Ekulu,Chukwudi,Chicken Burger,3,1500,4500,Cash
+10,2026-03-20 14:56:54,Trans-Ekulu,Adaeze,Zobo Drink,2,300,600,POS
+11,2026-03-20 14:57:09,Ogui Road,Ngozi,Fried Rice,3,900,2700,Transfer
+12,2026-03-20 14:57:24,GRA,Emeka,Peppered Chicken,2,1100,2200,Transfer
+13,2026-03-20 14:57:39,GRA,Ngozi,Chapman,3,600,1800,Transfer
+14,2026-03-20 14:57:55,Independence Layout,Uche,Meat Pie,5,400,2000,Cash
+15,2026-03-20 14:58:10,GRA,Emeka,Jollof Rice,2,850,1700,Cash
+16,2026-03-20 14:58:25,Ogui Road,Chioma,Jollof Rice,2,850,1700,Transfer
+17,2026-03-20 14:58:40,Independence Layout,Adaeze,Chapman,3,600,1800,POS
+18,2026-03-20 14:58:55,GRA,Ngozi,Shawarma,1,1200,1200,Cash
+19,2026-03-20 14:59:10,Ogui Road,Chioma,Meat Pie,4,400,1600,Cash
+20,2026-03-20 14:59:25,Independence Layout,Emeka,Meat Pie,2,400,800,Cash
+21,2026-03-20 14:59:40,Independence Layout,Emeka,Chicken Burger,5,1500,7500,POS
+22,2026-03-20 14:59:55,Trans-Ekulu,Adaeze,Jollof Rice,2,850,1700,Transfer
+23,2026-03-20 15:00:10,Trans-Ekulu,Emeka,Meat Pie,2,400,800,POS
+24,2026-03-20 15:00:25,Trans-Ekulu,Chioma,Zobo Drink,5,300,1500,POS
+25,2026-03-20 15:00:40,Trans-Ekulu,Ngozi,Shawarma,2,1200,2400,POS
+26,2026-03-20 15:00:55,Ogui Road,Uche,Fried Rice,4,900,3600,Cash
+27,2026-03-20 15:01:10,Independence Layout,Ngozi,Chips & Chicken,5,1300,6500,POS
+28,2026-03-20 15:01:25,Ogui Road,Adaeze,Chips & Chicken,5,1300,6500,Cash
+29,2026-03-20 15:01:40,Trans-Ekulu,Uche,Chapman,4,600,2400,Cash
+30,2026-03-20 15:01:55,GRA,Uche,Meat Pie,4,400,1600,Transfer
+31,2026-03-20 15:02:10,Independence Layout,Adaeze,Meat Pie,2,400,800,POS
+32,2026-03-20 15:02:25,GRA,Chukwudi,Fried Rice,4,900,3600,Transfer
+33,2026-03-20 15:02:40,New Haven,Chioma,Peppered Chicken,5,1100,5500,Transfer
+34,2026-03-20 15:02:55,Trans-Ekulu,Chukwudi,Zobo Drink,1,300,300,Cash
+35,2026-03-20 15:03:10,Ogui Road,Ngozi,Shawarma,3,1200,3600,POS
+36,2026-03-20 15:03:25,Independence Layout,Emeka,Zobo Drink,4,300,1200,Transfer
+37,2026-03-20 15:03:41,New Haven,Chukwudi,Shawarma,2,1200,2400,Transfer
+38,2026-03-20 15:03:56,Trans-Ekulu,Uche,Shawarma,5,1200,6000,Cash
+39,2026-03-20 15:04:11,New Haven,Adaeze,Meat Pie,4,400,1600,Transfer
+40,2026-03-20 15:04:26,Ogui Road,Chioma,Jollof Rice,2,850,1700,Transfer
+41,2026-03-20 15:04:41,Independence Layout,Chukwudi,Moi Moi,1,500,500,Transfer
+42,2026-03-20 15:04:56,Independence Layout,Emeka,Jollof Rice,3,850,2550,Cash
+43,2026-03-20 15:05:11,Trans-Ekulu,Ngozi,Fried Rice,5,900,4500,Cash
+44,2026-03-20 15:05:26,Ogui Road,Emeka,Moi Moi,3,500,1500,POS
+45,2026-03-20 15:05:41,New Haven,Emeka,Zobo Drink,1,300,300,Cash
+46,2026-03-20 15:05:56,GRA,Chukwudi,Shawarma,3,1200,3600,Transfer
+47,2026-03-20 15:06:11,GRA,Uche,Moi Moi,3,500,1500,Cash
+48,2026-03-20 15:06:26,Ogui Road,Ngozi,Shawarma,2,1200,2400,Cash
+49,2026-03-20 15:06:41,New Haven,Chukwudi,Peppered Chicken,4,1100,4400,Cash
+50,2026-03-20 15:06:56,Trans-Ekulu,Emeka,Chapman,1,600,600,POS
+51,2026-03-20 15:07:11,Trans-Ekulu,Chukwudi,Peppered Chicken,2,1100,2200,Cash
+52,2026-03-20 15:07:26,New Haven,Ngozi,Shawarma,2,1200,2400,POS
+53,2026-03-20 15:07:41,Independence Layout,Emeka,Jollof Rice,5,850,4250,POS
+54,2026-03-20 15:07:56,Trans-Ekulu,Adaeze,Meat Pie,5,400,2000,Cash
+55,2026-03-20 15:08:11,Ogui Road,Chukwudi,Fried Rice,2,900,1800,Cash
+56,2026-03-20 15:08:26,Independence Layout,Chioma,Zobo Drink,4,300,1200,POS
+57,2026-03-20 15:08:42,Trans-Ekulu,Chioma,Meat Pie,2,400,800,Cash
+58,2026-03-20 15:08:57,Ogui Road,Chukwudi,Meat Pie,3,400,1200,POS
+59,2026-03-20 15:09:12,Ogui Road,Ngozi,Shawarma,1,1200,1200,Transfer
+60,2026-03-20 15:09:27,Independence Layout,Adaeze,Chicken Burger,5,1500,7500,Transfer
+61,2026-03-20 15:09:42,Ogui Road,Chukwudi,Zobo Drink,2,300,600,Transfer
+62,2026-03-20 15:09:57,Ogui Road,Chukwudi,Meat Pie,2,400,800,Transfer
+63,2026-03-20 15:10:12,Trans-Ekulu,Adaeze,Chapman,1,600,600,Transfer
+64,2026-03-20 15:10:27,New Haven,Emeka,Jollof Rice,3,850,2550,Cash
+65,2026-03-20 15:10:42,Ogui Road,Adaeze,Peppered Chicken,1,1100,1100,Transfer
+66,2026-03-20 15:10:57,New Haven,Uche,Meat Pie,3,400,1200,Cash
+67,2026-03-20 15:11:12,Independence Layout,Ngozi,Chicken Burger,3,1500,4500,Transfer
+68,2026-03-20 15:11:27,New Haven,Uche,Chapman,1,600,600,Transfer
+69,2026-03-20 15:11:42,Independence Layout,Uche,Moi Moi,3,500,1500,POS
+70,2026-03-20 15:11:57,Ogui Road,Chukwudi,Chicken Burger,4,1500,6000,POS
+71,2026-03-20 15:12:12,Independence Layout,Emeka,Chips & Chicken,5,1300,6500,Cash
+72,2026-03-20 15:12:27,Independence Layout,Chioma,Chicken Burger,1,1500,1500,Transfer
+73,2026-03-20 15:12:42,GRA,Ngozi,Peppered Chicken,5,1100,5500,Transfer
+74,2026-03-20 15:12:57,Ogui Road,Uche,Meat Pie,5,400,2000,Cash
+75,2026-03-20 15:13:12,Independence Layout,Emeka,Zobo Drink,2,300,600,Transfer
+76,2026-03-20 15:13:27,New Haven,Emeka,Peppered Chicken,4,1100,4400,Cash
+77,2026-03-20 15:13:42,Independence Layout,Adaeze,Zobo Drink,1,300,300,Transfer
+78,2026-03-20 15:13:57,Trans-Ekulu,Uche,Moi Moi,5,500,2500,Cash
+79,2026-03-20 15:14:12,Trans-Ekulu,Ngozi,Chips & Chicken,1,1300,1300,Cash
+80,2026-03-20 15:14:27,Independence Layout,Chioma,Peppered Chicken,4,1100,4400,POS
+81,2026-03-20 15:14:42,Independence Layout,Chukwudi,Chapman,4,600,2400,Cash
+82,2026-03-20 15:14:57,GRA,Ngozi,Peppered Chicken,2,1100,2200,POS
+83,2026-03-20 15:15:12,Independence Layout,Adaeze,Moi Moi,3,500,1500,Cash
+84,2026-03-20 15:15:27,Independence Layout,Emeka,Meat Pie,4,400,1600,Cash
+85,2026-03-20 15:15:42,New Haven,Ngozi,Moi Moi,5,500,2500,Transfer
+86,2026-03-20 15:15:57,Independence Layout,Emeka,Fried Rice,5,900,4500,POS
+87,2026-03-20 15:16:12,Trans-Ekulu,Ngozi,Moi Moi,3,500,1500,Cash
+88,2026-03-20 15:16:27,New Haven,Adaeze,Chicken Burger,3,1500,4500,Cash
+89,2026-03-20 15:16:42,GRA,Ngozi,Shawarma,5,1200,6000,Cash
+90,2026-03-20 15:16:57,GRA,Chukwudi,Chapman,5,600,3000,Transfer
+91,2026-03-20 15:17:12,Ogui Road,Emeka,Fried Rice,4,900,3600,Cash
+92,2026-03-20 15:17:27,GRA,Chioma,Chapman,2,600,1200,Transfer
+93,2026-03-20 15:17:42,GRA,Adaeze,Jollof Rice,5,850,4250,POS
+94,2026-03-20 15:17:57,GRA,Ngozi,Jollof Rice,2,850,1700,POS
+95,2026-03-20 15:18:13,GRA,Chioma,Moi Moi,4,500,2000,Transfer
+96,2026-03-20 15:18:28,New Haven,Chukwudi,Fried Rice,3,900,2700,Cash
+97,2026-03-20 15:18:43,GRA,Adaeze,Chips & Chicken,4,1300,5200,Cash
+98,2026-03-20 15:18:58,Trans-Ekulu,Uche,Chapman,3,600,1800,Cash
+99,2026-03-20 15:19:13,Ogui Road,Ngozi,Jollof Rice,2,850,1700,Cash
+100,2026-03-20 15:19:28,Independence Layout,Chukwudi,Fried Rice,2,900,1800,Cash
+101,2026-03-20 15:19:43,GRA,Emeka,Jollof Rice,2,850,1700,POS
+102,2026-03-20 15:19:58,New Haven,Uche,Chicken Burger,1,1500,1500,Cash
+103,2026-03-20 15:20:13,New Haven,Chioma,Chips & Chicken,1,1300,1300,POS
+104,2026-03-20 15:20:28,Independence Layout,Emeka,Peppered Chicken,2,1100,2200,Cash
+105,2026-03-20 15:20:43,GRA,Chioma,Meat Pie,5,400,2000,Transfer
+106,2026-03-20 15:20:58,New Haven,Ngozi,Chips & Chicken,2,1300,2600,POS
+107,2026-03-20 15:21:13,Independence Layout,Emeka,Peppered Chicken,4,1100,4400,POS
+108,2026-03-20 15:21:28,Independence Layout,Ngozi,Peppered Chicken,2,1100,2200,POS
+109,2026-03-20 15:21:43,New Haven,Chioma,Chicken Burger,4,1500,6000,Transfer
+110,2026-03-20 15:21:58,Trans-Ekulu,Chioma,Zobo Drink,1,300,300,Transfer
+111,2026-03-20 15:22:13,Ogui Road,Chioma,Shawarma,1,1200,1200,Transfer
+112,2026-03-20 15:22:28,Independence Layout,Adaeze,Shawarma,2,1200,2400,Cash
+113,2026-03-20 15:22:43,Independence Layout,Emeka,Fried Rice,1,900,900,POS
+114,2026-03-20 15:22:58,Independence Layout,Uche,Chapman,5,600,3000,Transfer
+115,2026-03-20 15:23:13,New Haven,Emeka,Chapman,1,600,600,Transfer
+116,2026-03-20 15:23:28,Trans-Ekulu,Uche,Chips & Chicken,4,1300,5200,Cash
+117,2026-03-20 15:23:43,Independence Layout,Chioma,Jollof Rice,5,850,4250,Cash
+118,2026-03-20 15:23:58,New Haven,Emeka,Shawarma,2,1200,2400,Cash
+119,2026-03-20 15:24:14,Independence Layout,Chioma,Chicken Burger,5,1500,7500,Transfer
+120,2026-03-20 15:24:29,Independence Layout,Chioma,Chips & Chicken,4,1300,5200,POS
+121,2026-03-20 15:24:44,New Haven,Chukwudi,Chicken Burger,5,1500,7500,Cash
+122,2026-03-20 15:24:59,Independence Layout,Uche,Moi Moi,5,500,2500,POS
+123,2026-03-20 15:25:14,Trans-Ekulu,Chioma,Chapman,5,600,3000,POS
+124,2026-03-20 15:25:29,Ogui Road,Chioma,Moi Moi,5,500,2500,Transfer
+125,2026-03-20 15:25:44,New Haven,Emeka,Chicken Burger,4,1500,6000,Cash
+126,2026-03-20 15:25:59,GRA,Uche,Zobo Drink,3,300,900,POS
+127,2026-03-20 15:26:14,New Haven,Chioma,Chicken Burger,1,1500,1500,POS
+128,2026-03-20 15:26:29,Independence Layout,Chukwudi,Fried Rice,1,900,900,POS
+129,2026-03-20 15:26:44,Ogui Road,Adaeze,Chapman,2,600,1200,POS
+130,2026-03-20 15:26:59,New Haven,Chukwudi,Zobo Drink,3,300,900,POS
+131,2026-03-20 15:27:14,Trans-Ekulu,Adaeze,Chapman,1,600,600,POS
+132,2026-03-20 15:27:29,GRA,Uche,Shawarma,4,1200,4800,Transfer
+133,2026-03-20 15:27:45,Trans-Ekulu,Chukwudi,Chips & Chicken,2,1300,2600,Transfer
+134,2026-03-20 15:28:00,New Haven,Emeka,Fried Rice,2,900,1800,Transfer
+135,2026-03-20 15:28:15,Independence Layout,Ngozi,Chicken Burger,5,1500,7500,Transfer
+136,2026-03-20 15:28:30,Trans-Ekulu,Adaeze,Chapman,2,600,1200,POS
+137,2026-03-20 15:28:45,New Haven,Uche,Chicken Burger,4,1500,6000,POS
+138,2026-03-20 15:29:00,Ogui Road,Uche,Shawarma,2,1200,2400,POS
+139,2026-03-20 15:29:15,Independence Layout,Chukwudi,Chapman,5,600,3000,Cash
+140,2026-03-20 15:29:30,Ogui Road,Chukwudi,Zobo Drink,5,300,1500,POS
+141,2026-03-20 15:29:45,Trans-Ekulu,Emeka,Peppered Chicken,5,1100,5500,Transfer
+142,2026-03-20 15:30:00,Trans-Ekulu,Adaeze,Jollof Rice,3,850,2550,Transfer
+143,2026-03-20 15:30:15,Trans-Ekulu,Ngozi,Chapman,5,600,3000,Transfer
+144,2026-03-20 15:30:30,Trans-Ekulu,Chioma,Jollof Rice,1,850,850,Cash
+145,2026-03-20 15:30:45,Trans-Ekulu,Uche,Moi Moi,1,500,500,Cash
+146,2026-03-20 15:31:00,Trans-Ekulu,Emeka,Meat Pie,2,400,800,Cash
+147,2026-03-20 15:31:15,Ogui Road,Uche,Meat Pie,1,400,400,Cash
+148,2026-03-20 15:31:30,Independence Layout,Chukwudi,Moi Moi,2,500,1000,Cash
+149,2026-03-20 15:31:45,Ogui Road,Ngozi,Moi Moi,2,500,1000,Cash
+150,2026-03-20 15:32:00,Trans-Ekulu,Emeka,Moi Moi,3,500,1500,Transfer
+151,2026-03-20 15:32:15,GRA,Adaeze,Zobo Drink,3,300,900,Cash
+152,2026-03-20 15:32:30,Ogui Road,Uche,Shawarma,4,1200,4800,POS
+153,2026-03-20 15:32:45,Ogui Road,Chukwudi,Zobo Drink,2,300,600,POS
+154,2026-03-20 15:33:00,Independence Layout,Emeka,Shawarma,4,1200,4800,Cash
+155,2026-03-20 15:33:15,Independence Layout,Ngozi,Chicken Burger,5,1500,7500,Transfer
+156,2026-03-20 15:33:30,Independence Layout,Chukwudi,Meat Pie,1,400,400,Transfer
+157,2026-03-20 15:33:45,Ogui Road,Uche,Shawarma,3,1200,3600,POS
+158,2026-03-20 15:34:00,New Haven,Adaeze,Peppered Chicken,1,1100,1100,Transfer
+159,2026-03-20 15:34:15,GRA,Chioma,Chips & Chicken,1,1300,1300,Transfer
+160,2026-03-20 15:34:30,New Haven,Chukwudi,Chapman,5,600,3000,POS
+161,2026-03-20 15:34:45,Ogui Road,Chukwudi,Chips & Chicken,2,1300,2600,Transfer
+162,2026-03-20 15:35:00,Ogui Road,Chioma,Chicken Burger,4,1500,6000,POS
+163,2026-03-20 15:35:15,Trans-Ekulu,Ngozi,Chapman,1,600,600,Cash
+164,2026-03-20 15:35:31,New Haven,Uche,Zobo Drink,4,300,1200,Transfer
+165,2026-03-20 15:35:46,Independence Layout,Emeka,Peppered Chicken,5,1100,5500,Transfer
+166,2026-03-20 15:36:01,GRA,Emeka,Zobo Drink,3,300,900,Cash
+167,2026-03-20 15:36:16,New Haven,Adaeze,Meat Pie,4,400,1600,Cash
+168,2026-03-20 15:36:31,Trans-Ekulu,Uche,Chicken Burger,5,1500,7500,POS
+169,2026-03-20 15:36:46,Independence Layout,Ngozi,Moi Moi,3,500,1500,Cash
+170,2026-03-20 15:37:01,GRA,Ngozi,Chips & Chicken,1,1300,1300,POS
+171,2026-03-20 15:37:17,Ogui Road,Uche,Meat Pie,2,400,800,Transfer
+172,2026-03-20 15:37:32,Independence Layout,Chioma,Moi Moi,3,500,1500,Transfer
+173,2026-03-20 15:37:47,Independence Layout,Emeka,Meat Pie,1,400,400,POS
+174,2026-03-20 15:38:02,GRA,Adaeze,Zobo Drink,3,300,900,Transfer
+175,2026-03-20 15:38:17,New Haven,Adaeze,Shawarma,1,1200,1200,Cash
+176,2026-03-20 15:38:32,Independence Layout,Adaeze,Chips & Chicken,3,1300,3900,POS
+177,2026-03-20 15:38:47,Independence Layout,Uche,Jollof Rice,5,850,4250,POS
+178,2026-03-20 15:39:02,Ogui Road,Emeka,Meat Pie,2,400,800,POS
+179,2026-03-20 15:39:17,GRA,Chukwudi,Chicken Burger,3,1500,4500,Cash
+180,2026-03-20 15:39:32,Independence Layout,Uche,Jollof Rice,4,850,3400,Transfer
+181,2026-03-20 15:39:47,Trans-Ekulu,Uche,Meat Pie,4,400,1600,Cash
+182,2026-03-20 15:40:02,Independence Layout,Adaeze,Moi Moi,1,500,500,Cash
+183,2026-03-20 15:40:17,GRA,Emeka,Peppered Chicken,1,1100,1100,Transfer
+184,2026-03-20 15:40:32,Independence Layout,Chioma,Shawarma,4,1200,4800,POS
+185,2026-03-20 15:40:47,Independence Layout,Ngozi,Zobo Drink,2,300,600,POS
+186,2026-03-20 15:41:02,New Haven,Emeka,Meat Pie,3,400,1200,Transfer
+187,2026-03-20 15:41:17,Independence Layout,Uche,Peppered Chicken,3,1100,3300,POS
+188,2026-03-20 15:41:32,New Haven,Uche,Chicken Burger,4,1500,6000,POS
+189,2026-03-20 15:41:47,GRA,Chukwudi,Chicken Burger,2,1500,3000,Transfer
+190,2026-03-20 15:42:02,Ogui Road,Chioma,Chicken Burger,3,1500,4500,Cash
+191,2026-03-20 15:42:17,GRA,Ngozi,Peppered Chicken,4,1100,4400,Transfer
+192,2026-03-20 15:42:32,Ogui Road,Adaeze,Jollof Rice,1,850,850,Transfer
+193,2026-03-20 15:42:47,New Haven,Uche,Chicken Burger,3,1500,4500,Transfer
+194,2026-03-20 15:43:02,GRA,Uche,Chips & Chicken,3,1300,3900,POS
+195,2026-03-20 15:43:17,GRA,Emeka,Zobo Drink,4,300,1200,POS
+196,2026-03-20 15:43:32,Trans-Ekulu,Uche,Chapman,2,600,1200,Cash
+197,2026-03-20 15:43:48,New Haven,Chukwudi,Peppered Chicken,3,1100,3300,Transfer
+198,2026-03-20 15:44:03,Ogui Road,Adaeze,Fried Rice,3,900,2700,Transfer
+199,2026-03-20 15:44:18,Independence Layout,Adaeze,Zobo Drink,1,300,300,POS
+200,2026-03-20 15:44:33,New Haven,Emeka,Fried Rice,5,900,4500,Transfer
+201,2026-03-20 15:44:48,GRA,Adaeze,Fried Rice,5,900,4500,POS
+202,2026-03-20 15:45:03,New Haven,Uche,Shawarma,2,1200,2400,Transfer
+203,2026-03-20 15:45:18,Independence Layout,Chukwudi,Jollof Rice,2,850,1700,Cash
+204,2026-03-20 15:45:33,Independence Layout,Chukwudi,Peppered Chicken,5,1100,5500,POS
+205,2026-03-20 15:45:48,New Haven,Uche,Shawarma,4,1200,4800,POS
+206,2026-03-20 15:46:03,New Haven,Chioma,Shawarma,1,1200,1200,Cash
+207,2026-03-20 15:46:18,New Haven,Chukwudi,Chapman,5,600,3000,POS
+208,2026-03-20 15:46:33,Independence Layout,Chioma,Chips & Chicken,1,1300,1300,POS
+209,2026-03-20 15:46:48,GRA,Adaeze,Jollof Rice,2,850,1700,Transfer
+210,2026-03-20 15:47:03,Trans-Ekulu,Chukwudi,Chapman,3,600,1800,POS
+211,2026-03-20 15:47:18,Independence Layout,Emeka,Fried Rice,5,900,4500,Cash
+212,2026-03-20 15:47:33,Independence Layout,Uche,Moi Moi,3,500,1500,Cash
+213,2026-03-20 15:47:48,Ogui Road,Chukwudi,Jollof Rice,1,850,850,Transfer
+214,2026-03-20 15:48:03,Trans-Ekulu,Chioma,Moi Moi,4,500,2000,POS
+215,2026-03-20 15:48:18,Trans-Ekulu,Adaeze,Peppered Chicken,3,1100,3300,Cash
+216,2026-03-20 15:48:33,GRA,Ngozi,Shawarma,1,1200,1200,POS
+217,2026-03-20 15:48:48,Independence Layout,Chioma,Meat Pie,5,400,2000,Transfer
+218,2026-03-20 15:49:03,Ogui Road,Chioma,Chicken Burger,5,1500,7500,Transfer
+219,2026-03-20 15:49:18,New Haven,Ngozi,Meat Pie,5,400,2000,Transfer
+220,2026-03-20 15:49:33,Ogui Road,Emeka,Chapman,3,600,1800,Transfer
+221,2026-03-20 15:49:48,Trans-Ekulu,Emeka,Fried Rice,5,900,4500,Cash
+222,2026-03-20 15:50:03,Independence Layout,Chioma,Shawarma,5,1200,6000,POS
+223,2026-03-20 15:50:18,Ogui Road,Ngozi,Meat Pie,1,400,400,Transfer
+224,2026-03-20 15:50:33,GRA,Adaeze,Chips & Chicken,4,1300,5200,POS
+225,2026-03-20 15:50:48,GRA,Emeka,Zobo Drink,3,300,900,POS
+226,2026-03-20 15:51:03,Trans-Ekulu,Chioma,Moi Moi,3,500,1500,POS
+227,2026-03-20 15:51:18,New Haven,Emeka,Shawarma,4,1200,4800,Cash
+228,2026-03-20 15:51:33,Independence Layout,Emeka,Chapman,3,600,1800,Cash
+229,2026-03-20 15:51:48,New Haven,Emeka,Meat Pie,5,400,2000,Cash
+230,2026-03-20 15:52:03,GRA,Uche,Chicken Burger,5,1500,7500,POS
+231,2026-03-20 15:52:18,Trans-Ekulu,Chioma,Fried Rice,5,900,4500,POS
+232,2026-03-20 15:52:33,Trans-Ekulu,Adaeze,Chicken Burger,1,1500,1500,Cash
+233,2026-03-20 15:52:48,New Haven,Emeka,Fried Rice,3,900,2700,Cash
+234,2026-03-20 15:53:03,Trans-Ekulu,Adaeze,Peppered Chicken,2,1100,2200,POS
+235,2026-03-20 15:53:19,Independence Layout,Uche,Zobo Drink,1,300,300,POS
+236,2026-03-20 15:53:34,Trans-Ekulu,Adaeze,Moi Moi,1,500,500,Cash
+237,2026-03-20 15:53:49,GRA,Ngozi,Zobo Drink,4,300,1200,Cash
+238,2026-03-20 15:54:04,Independence Layout,Chioma,Zobo Drink,4,300,1200,POS
+239,2026-03-20 15:54:19,GRA,Chioma,Chicken Burger,5,1500,7500,POS
+240,2026-03-20 15:54:34,Trans-Ekulu,Chioma,Moi Moi,1,500,500,POS
+241,2026-03-20 15:54:49,Trans-Ekulu,Ngozi,Chips & Chicken,2,1300,2600,POS
+242,2026-03-20 15:55:04,GRA,Uche,Chapman,3,600,1800,Transfer
+243,2026-03-20 15:55:19,New Haven,Emeka,Moi Moi,1,500,500,POS
+244,2026-03-20 15:55:34,GRA,Ngozi,Fried Rice,1,900,900,POS
+245,2026-03-20 15:55:49,New Haven,Emeka,Chips & Chicken,2,1300,2600,Transfer
+246,2026-03-20 15:56:04,New Haven,Emeka,Zobo Drink,3,300,900,POS
+247,2026-03-20 15:56:19,Independence Layout,Chioma,Shawarma,1,1200,1200,Cash
+248,2026-03-20 15:56:34,GRA,Uche,Chicken Burger,1,1500,1500,Cash
+249,2026-03-20 15:56:49,Trans-Ekulu,Uche,Moi Moi,1,500,500,POS
+250,2026-03-20 15:57:04,Independence Layout,Uche,Meat Pie,5,400,2000,POS
+251,2026-03-20 15:57:19,Ogui Road,Chukwudi,Peppered Chicken,5,1100,5500,Cash
+252,2026-03-20 15:57:34,Ogui Road,Adaeze,Meat Pie,4,400,1600,Cash
+253,2026-03-20 15:57:49,Ogui Road,Ngozi,Chicken Burger,5,1500,7500,Transfer
+254,2026-03-20 15:58:04,Ogui Road,Uche,Meat Pie,5,400,2000,POS
+255,2026-03-20 15:58:19,Ogui Road,Uche,Meat Pie,2,400,800,Cash
+256,2026-03-20 15:58:34,New Haven,Chukwudi,Chapman,5,600,3000,Cash
+257,2026-03-20 15:58:49,Ogui Road,Uche,Chips & Chicken,1,1300,1300,Transfer
+258,2026-03-20 15:59:04,Ogui Road,Chioma,Peppered Chicken,3,1100,3300,Transfer
+259,2026-03-20 15:59:19,Independence Layout,Emeka,Zobo Drink,3,300,900,Transfer
+260,2026-03-20 15:59:34,Trans-Ekulu,Emeka,Meat Pie,3,400,1200,Cash
+261,2026-03-20 15:59:49,New Haven,Adaeze,Chapman,3,600,1800,Cash
+262,2026-03-20 16:00:05,Trans-Ekulu,Chioma,Shawarma,3,1200,3600,Cash
+263,2026-03-20 16:00:20,Ogui Road,Chukwudi,Chips & Chicken,1,1300,1300,POS
+264,2026-03-20 16:00:35,Ogui Road,Ngozi,Chips & Chicken,4,1300,5200,Cash
+265,2026-03-20 16:00:50,Trans-Ekulu,Chioma,Shawarma,4,1200,4800,Transfer
+266,2026-03-20 16:01:05,Ogui Road,Chioma,Chapman,2,600,1200,Cash
+267,2026-03-20 16:01:20,GRA,Chioma,Peppered Chicken,5,1100,5500,Transfer
+268,2026-03-20 16:01:35,Trans-Ekulu,Chukwudi,Fried Rice,5,900,4500,Cash
+269,2026-03-20 16:01:50,New Haven,Adaeze,Fried Rice,4,900,3600,Cash
+270,2026-03-20 16:02:05,Ogui Road,Adaeze,Zobo Drink,5,300,1500,POS
+271,2026-03-20 16:02:20,Independence Layout,Ngozi,Shawarma,2,1200,2400,POS
+272,2026-03-20 16:02:35,New Haven,Uche,Chapman,5,600,3000,Cash
+273,2026-03-20 16:02:50,Independence Layout,Emeka,Peppered Chicken,5,1100,5500,Cash
+274,2026-03-20 16:03:05,Independence Layout,Uche,Meat Pie,2,400,800,Transfer
+275,2026-03-20 16:03:20,Trans-Ekulu,Uche,Chips & Chicken,1,1300,1300,POS
+276,2026-03-20 16:03:35,Ogui Road,Uche,Fried Rice,4,900,3600,Cash
+277,2026-03-20 16:03:50,Independence Layout,Emeka,Shawarma,5,1200,6000,Transfer
+278,2026-03-20 16:04:05,GRA,Adaeze,Moi Moi,1,500,500,POS
+279,2026-03-20 16:04:20,Independence Layout,Uche,Moi Moi,4,500,2000,POS
+280,2026-03-20 16:04:35,Trans-Ekulu,Ngozi,Jollof Rice,1,850,850,Cash
+281,2026-03-20 16:04:50,Independence Layout,Adaeze,Peppered Chicken,2,1100,2200,Transfer
+282,2026-03-20 16:05:05,New Haven,Chioma,Chapman,5,600,3000,Cash
+283,2026-03-20 16:05:20,Ogui Road,Emeka,Meat Pie,4,400,1600,Cash
+284,2026-03-20 16:05:35,Ogui Road,Chioma,Chips & Chicken,1,1300,1300,Cash
+285,2026-03-20 16:05:50,New Haven,Chioma,Peppered Chicken,4,1100,4400,Cash
+286,2026-03-20 16:06:05,Ogui Road,Ngozi,Fried Rice,5,900,4500,POS
+287,2026-03-20 16:06:20,New Haven,Adaeze,Jollof Rice,4,850,3400,Transfer
+288,2026-03-20 16:06:35,GRA,Chioma,Meat Pie,2,400,800,POS
+289,2026-03-20 16:06:50,New Haven,Emeka,Moi Moi,2,500,1000,Cash
+290,2026-03-20 16:07:05,Trans-Ekulu,Chioma,Chips & Chicken,5,1300,6500,POS
+291,2026-03-20 16:07:21,Trans-Ekulu,Emeka,Fried Rice,2,900,1800,Transfer
+292,2026-03-20 16:07:36,Trans-Ekulu,Chukwudi,Fried Rice,2,900,1800,POS
+293,2026-03-20 16:07:51,Ogui Road,Emeka,Moi Moi,4,500,2000,Transfer
+294,2026-03-20 16:08:06,Independence Layout,Adaeze,Zobo Drink,2,300,600,Transfer
+295,2026-03-20 16:08:21,Ogui Road,Chukwudi,Zobo Drink,5,300,1500,Transfer
+296,2026-03-20 16:08:36,Trans-Ekulu,Adaeze,Chips & Chicken,5,1300,6500,POS
+297,2026-03-20 16:08:51,GRA,Ngozi,Meat Pie,1,400,400,Cash
+298,2026-03-20 16:09:06,New Haven,Uche,Chapman,5,600,3000,Cash
+299,2026-03-20 16:09:21,Trans-Ekulu,Emeka,Meat Pie,3,400,1200,Transfer
+300,2026-03-20 16:09:36,Trans-Ekulu,Uche,Meat Pie,5,400,2000,POS
+301,2026-03-20 16:09:51,Trans-Ekulu,Chioma,Fried Rice,5,900,4500,POS
+302,2026-03-20 16:10:06,Trans-Ekulu,Emeka,Shawarma,5,1200,6000,POS
+303,2026-03-20 16:10:21,New Haven,Chioma,Shawarma,3,1200,3600,POS
+304,2026-03-20 16:10:36,New Haven,Uche,Chips & Chicken,3,1300,3900,POS
+305,2026-03-20 16:10:51,Independence Layout,Uche,Moi Moi,1,500,500,Transfer
+306,2026-03-20 16:11:07,Ogui Road,Chukwudi,Shawarma,3,1200,3600,Transfer
+307,2026-03-20 16:11:22,New Haven,Adaeze,Chapman,1,600,600,POS
+308,2026-03-20 16:11:37,GRA,Uche,Shawarma,2,1200,2400,POS
+309,2026-03-20 16:11:52,New Haven,Chukwudi,Moi Moi,2,500,1000,Transfer
+310,2026-03-20 16:12:07,New Haven,Adaeze,Peppered Chicken,1,1100,1100,POS
+311,2026-03-20 16:12:22,Independence Layout,Emeka,Shawarma,1,1200,1200,Cash
+312,2026-03-20 16:12:37,GRA,Chukwudi,Meat Pie,1,400,400,Transfer
+313,2026-03-20 16:12:52,Ogui Road,Emeka,Peppered Chicken,1,1100,1100,Cash
+314,2026-03-20 16:13:07,Independence Layout,Ngozi,Chicken Burger,2,1500,3000,POS
+315,2026-03-20 16:13:22,GRA,Uche,Fried Rice,2,900,1800,POS
+316,2026-03-20 16:13:37,Trans-Ekulu,Ngozi,Shawarma,1,1200,1200,Transfer
+317,2026-03-20 16:13:52,Independence Layout,Chukwudi,Peppered Chicken,4,1100,4400,Cash
+318,2026-03-20 16:14:07,New Haven,Chukwudi,Moi Moi,3,500,1500,Cash
+319,2026-03-20 16:14:22,GRA,Ngozi,Shawarma,5,1200,6000,POS
+320,2026-03-20 16:14:37,Independence Layout,Chukwudi,Moi Moi,5,500,2500,Cash
+321,2026-03-20 16:14:52,GRA,Ngozi,Peppered Chicken,3,1100,3300,Cash
+322,2026-03-20 16:15:07,Trans-Ekulu,Ngozi,Zobo Drink,2,300,600,Transfer
+323,2026-03-20 16:15:22,Trans-Ekulu,Ngozi,Chicken Burger,1,1500,1500,POS
+324,2026-03-20 19:15:37,Ogui Road,Uche,Chicken Burger,5,1500,7500,POS
+325,2026-03-21 13:12:08,New Haven,Emeka,Chips & Chicken,5,1300,6500,Cash
+326,2026-03-21 13:12:23,Independence Layout,Adaeze,Meat Pie,4,400,1600,POS
+327,2026-03-21 13:12:39,New Haven,Chioma,Shawarma,1,1200,1200,POS
+328,2026-03-21 13:12:54,GRA,Emeka,Shawarma,4,1200,4800,Cash
+329,2026-03-21 13:13:09,GRA,Uche,Meat Pie,2,400,800,POS
+330,2026-03-21 13:13:24,GRA,Adaeze,Moi Moi,5,500,2500,Cash
+331,2026-03-21 13:13:39,New Haven,Uche,Moi Moi,4,500,2000,POS
+332,2026-03-21 13:13:54,Ogui Road,Chioma,Chapman,1,600,600,Transfer
+333,2026-03-21 13:14:09,GRA,Ngozi,Chapman,5,600,3000,Transfer
+334,2026-03-21 13:14:24,Ogui Road,Chukwudi,Chapman,5,600,3000,Transfer
+335,2026-03-21 13:14:39,Independence Layout,Emeka,Chapman,2,600,1200,Cash
+336,2026-03-21 13:14:54,Independence Layout,Chukwudi,Moi Moi,2,500,1000,Cash
+337,2026-03-21 13:15:09,Trans-Ekulu,Chioma,Peppered Chicken,2,1100,2200,Cash
+338,2026-03-21 13:15:24,Trans-Ekulu,Chukwudi,Peppered Chicken,3,1100,3300,POS
+339,2026-03-21 13:15:39,Trans-Ekulu,Ngozi,Shawarma,2,1200,2400,Cash
+340,2026-03-21 13:15:54,Trans-Ekulu,Uche,Chicken Burger,2,1500,3000,Transfer
+341,2026-03-21 13:16:09,Trans-Ekulu,Chioma,Zobo Drink,2,300,600,Cash
+342,2026-03-21 13:16:24,New Haven,Ngozi,Peppered Chicken,5,1100,5500,POS
+343,2026-03-21 13:16:39,GRA,Chioma,Shawarma,4,1200,4800,Transfer
+344,2026-03-21 13:16:54,Trans-Ekulu,Ngozi,Shawarma,1,1200,1200,Transfer
+345,2026-03-21 13:17:09,Trans-Ekulu,Uche,Peppered Chicken,3,1100,3300,Cash
+346,2026-03-21 13:17:24,Independence Layout,Chioma,Meat Pie,5,400,2000,POS
+347,2026-03-21 13:17:39,Independence Layout,Uche,Meat Pie,5,400,2000,Cash
+348,2026-03-21 13:17:54,Trans-Ekulu,Ngozi,Zobo Drink,5,300,1500,Transfer
+349,2026-03-21 13:18:09,Independence Layout,Adaeze,Chicken Burger,4,1500,6000,POS
+350,2026-03-21 13:18:24,Ogui Road,Chukwudi,Shawarma,2,1200,2400,POS
+351,2026-03-21 13:18:39,New Haven,Uche,Zobo Drink,5,300,1500,Transfer
+352,2026-03-21 13:18:54,Independence Layout,Chukwudi,Chicken Burger,3,1500,4500,Transfer
+353,2026-03-21 13:19:09,Ogui Road,Chukwudi,Chips & Chicken,2,1300,2600,Transfer
+354,2026-03-21 13:19:24,GRA,Chukwudi,Peppered Chicken,3,1100,3300,POS
+355,2026-03-21 13:19:39,Ogui Road,Adaeze,Chapman,3,600,1800,Transfer
+356,2026-03-21 13:19:54,Trans-Ekulu,Adaeze,Zobo Drink,5,300,1500,Cash
+357,2026-03-21 13:20:09,Independence Layout,Ngozi,Meat Pie,2,400,800,POS
+358,2026-03-21 13:20:24,Ogui Road,Uche,Peppered Chicken,4,1100,4400,POS
+359,2026-03-21 13:20:39,New Haven,Uche,Fried Rice,5,900,4500,Transfer
+360,2026-03-21 13:20:54,GRA,Chioma,Chapman,3,600,1800,Transfer
+361,2026-03-21 13:21:10,Trans-Ekulu,Uche,Jollof Rice,4,850,3400,Cash
+362,2026-03-21 13:21:25,GRA,Chukwudi,Chips & Chicken,3,1300,3900,Cash
+363,2026-03-21 13:21:40,New Haven,Emeka,Shawarma,4,1200,4800,Transfer
+364,2026-03-21 13:21:55,Ogui Road,Chukwudi,Peppered Chicken,3,1100,3300,POS
+365,2026-03-21 13:22:11,New Haven,Uche,Chicken Burger,2,1500,3000,Transfer
+366,2026-03-21 13:22:27,New Haven,Adaeze,Chips & Chicken,1,1300,1300,Transfer
+367,2026-03-21 13:22:42,GRA,Chioma,Meat Pie,3,400,1200,Transfer
+368,2026-03-21 13:22:57,GRA,Adaeze,Meat Pie,2,400,800,Cash
+369,2026-03-21 13:23:12,New Haven,Emeka,Chips & Chicken,4,1300,5200,Cash
+370,2026-03-21 13:23:28,Ogui Road,Chukwudi,Moi Moi,5,500,2500,Cash
+371,2026-03-21 13:23:43,GRA,Chukwudi,Moi Moi,1,500,500,Transfer
+372,2026-03-21 13:23:58,New Haven,Chioma,Jollof Rice,1,850,850,Cash
+373,2026-03-21 13:24:13,GRA,Emeka,Moi Moi,5,500,2500,Transfer
+374,2026-03-21 13:24:29,Trans-Ekulu,Emeka,Moi Moi,1,500,500,POS
+375,2026-03-21 13:24:44,Independence Layout,Chukwudi,Meat Pie,4,400,1600,Transfer
+376,2026-03-21 13:24:59,Trans-Ekulu,Chioma,Chips & Chicken,2,1300,2600,POS
+377,2026-03-21 13:25:14,New Haven,Adaeze,Chips & Chicken,5,1300,6500,Cash
+378,2026-03-21 13:25:30,Trans-Ekulu,Chukwudi,Peppered Chicken,1,1100,1100,Cash
+379,2026-03-21 13:25:45,GRA,Ngozi,Moi Moi,3,500,1500,POS
+380,2026-03-21 13:26:00,Trans-Ekulu,Adaeze,Peppered Chicken,5,1100,5500,POS
+381,2026-03-21 13:26:15,New Haven,Chioma,Zobo Drink,5,300,1500,Transfer
+382,2026-03-21 13:26:30,Trans-Ekulu,Ngozi,Chapman,3,600,1800,Cash
+383,2026-03-21 13:26:45,GRA,Ngozi,Fried Rice,1,900,900,Cash
+384,2026-03-21 13:27:00,Independence Layout,Adaeze,Chips & Chicken,5,1300,6500,Cash
+385,2026-03-21 13:27:15,GRA,Ngozi,Jollof Rice,3,850,2550,Transfer
+386,2026-03-21 13:27:30,New Haven,Chukwudi,Fried Rice,1,900,900,POS
+387,2026-03-21 13:27:45,Ogui Road,Chukwudi,Peppered Chicken,5,1100,5500,POS
+388,2026-03-21 13:28:00,Trans-Ekulu,Chukwudi,Jollof Rice,1,850,850,Transfer
+389,2026-03-21 13:28:15,Independence Layout,Emeka,Jollof Rice,5,850,4250,Cash
+390,2026-03-21 13:28:30,GRA,Uche,Chapman,1,600,600,POS
+391,2026-03-21 13:28:45,GRA,Emeka,Chips & Chicken,2,1300,2600,Transfer
+392,2026-03-21 13:29:00,GRA,Ngozi,Peppered Chicken,3,1100,3300,Cash
+393,2026-03-21 13:29:15,Ogui Road,Ngozi,Zobo Drink,3,300,900,Cash
+394,2026-03-21 13:29:30,GRA,Adaeze,Jollof Rice,3,850,2550,Cash
+395,2026-03-21 13:29:45,Trans-Ekulu,Emeka,Chips & Chicken,1,1300,1300,Transfer
+396,2026-03-21 13:30:00,Trans-Ekulu,Chioma,Chicken Burger,1,1500,1500,POS
+397,2026-03-21 13:30:15,Independence Layout,Ngozi,Moi Moi,4,500,2000,Cash
+398,2026-03-21 13:30:30,Trans-Ekulu,Chukwudi,Chapman,4,600,2400,Cash
+399,2026-03-21 13:30:46,New Haven,Emeka,Chapman,1,600,600,POS
+400,2026-03-21 13:31:01,Trans-Ekulu,Chukwudi,Jollof Rice,3,850,2550,Cash
+401,2026-03-21 13:31:16,GRA,Chukwudi,Shawarma,4,1200,4800,Transfer
+402,2026-03-21 13:31:31,New Haven,Ngozi,Shawarma,1,1200,1200,POS
+403,2026-03-21 13:31:46,Independence Layout,Uche,Jollof Rice,4,850,3400,POS
+404,2026-03-21 13:32:01,Trans-Ekulu,Adaeze,Shawarma,3,1200,3600,POS
+405,2026-03-21 13:32:16,New Haven,Emeka,Fried Rice,2,900,1800,POS
+406,2026-03-21 13:32:31,New Haven,Chioma,Fried Rice,3,900,2700,POS
+407,2026-03-21 13:32:46,Independence Layout,Emeka,Jollof Rice,3,850,2550,POS
+408,2026-03-21 13:33:01,GRA,Adaeze,Chicken Burger,2,1500,3000,Cash
+409,2026-03-21 13:33:16,Trans-Ekulu,Emeka,Jollof Rice,5,850,4250,Transfer
+410,2026-03-21 13:33:31,Trans-Ekulu,Emeka,Shawarma,3,1200,3600,POS
+411,2026-03-21 13:33:46,Independence Layout,Emeka,Jollof Rice,4,850,3400,POS
+412,2026-03-21 13:34:01,New Haven,Chioma,Fried Rice,1,900,900,POS
+413,2026-03-21 13:34:16,New Haven,Chioma,Fried Rice,3,900,2700,POS
+414,2026-03-21 13:34:31,GRA,Ngozi,Moi Moi,5,500,2500,Transfer
+415,2026-03-21 13:34:46,Independence Layout,Emeka,Chicken Burger,3,1500,4500,Transfer
+416,2026-03-21 13:35:01,GRA,Chukwudi,Zobo Drink,5,300,1500,POS
+417,2026-03-21 13:35:16,New Haven,Adaeze,Chapman,2,600,1200,Transfer
+418,2026-03-21 13:35:31,GRA,Uche,Peppered Chicken,3,1100,3300,Transfer
+419,2026-03-21 13:35:46,Independence Layout,Chukwudi,Moi Moi,3,500,1500,POS
+420,2026-03-21 13:36:01,GRA,Chioma,Chapman,5,600,3000,POS
+421,2026-03-21 13:36:16,New Haven,Ngozi,Peppered Chicken,5,1100,5500,Transfer
+422,2026-03-21 13:36:32,GRA,Emeka,Chicken Burger,1,1500,1500,POS
+423,2026-03-21 13:36:47,Ogui Road,Chioma,Shawarma,2,1200,2400,Cash
+424,2026-03-21 13:37:02,Trans-Ekulu,Emeka,Jollof Rice,1,850,850,Transfer
+425,2026-03-21 13:37:17,Trans-Ekulu,Chioma,Chips & Chicken,3,1300,3900,Transfer
+426,2026-03-21 13:37:32,Ogui Road,Emeka,Peppered Chicken,3,1100,3300,Cash
+1,2026-03-21 13:43:27,GRA,Ngozi,Meat Pie,5,400,2000,Transfer
+2,2026-03-21 13:43:42,New Haven,Adaeze,Meat Pie,5,400,2000,POS
+3,2026-03-21 13:43:57,Ogui Road,Uche,Shawarma,5,1200,6000,Transfer
+4,2026-03-21 13:44:12,GRA,Adaeze,Moi Moi,1,500,500,Cash
+5,2026-03-21 13:44:27,Ogui Road,Emeka,Chicken Burger,3,1500,4500,Cash
+6,2026-03-21 13:44:42,New Haven,Ngozi,Chicken Burger,2,1500,3000,Transfer
+7,2026-03-21 13:44:57,Independence Layout,Chukwudi,Meat Pie,5,400,2000,Transfer
+8,2026-03-21 13:45:12,Independence Layout,Ngozi,Moi Moi,2,500,1000,Cash
+9,2026-03-21 13:45:28,Independence Layout,Adaeze,Chicken Burger,4,1500,6000,Transfer
+10,2026-03-21 13:45:43,GRA,Adaeze,Fried Rice,2,900,1800,Transfer
+11,2026-03-21 13:45:58,GRA,Chukwudi,Shawarma,1,1200,1200,Transfer
+12,2026-03-21 13:46:13,GRA,Emeka,Fried Rice,2,900,1800,Transfer
+13,2026-03-21 13:46:28,GRA,Adaeze,Peppered Chicken,2,1100,2200,Transfer
+14,2026-03-21 13:46:43,New Haven,Chukwudi,Chapman,3,600,1800,Transfer
+15,2026-03-21 13:46:58,New Haven,Chukwudi,Jollof Rice,1,850,850,Cash
+16,2026-03-21 13:47:13,New Haven,Emeka,Fried Rice,3,900,2700,Transfer
+17,2026-03-21 13:47:28,New Haven,Uche,Jollof Rice,3,850,2550,Cash
+18,2026-03-21 13:47:43,New Haven,Chukwudi,Peppered Chicken,2,1100,2200,Cash
+19,2026-03-21 13:47:58,Trans-Ekulu,Emeka,Moi Moi,3,500,1500,Transfer
+20,2026-03-21 13:48:13,GRA,Chukwudi,Meat Pie,2,400,800,Cash
+21,2026-03-21 13:48:28,GRA,Emeka,Fried Rice,1,900,900,POS
+22,2026-03-21 13:48:43,Independence Layout,Adaeze,Jollof Rice,2,850,1700,Cash
+23,2026-03-21 13:48:58,Independence Layout,Emeka,Zobo Drink,4,300,1200,Cash
+24,2026-03-21 13:49:13,GRA,Chukwudi,Chips & Chicken,2,1300,2600,POS
+25,2026-03-21 13:49:28,Independence Layout,Uche,Shawarma,2,1200,2400,POS
+26,2026-03-21 13:49:43,Ogui Road,Uche,Chips & Chicken,3,1300,3900,POS
+27,2026-03-21 13:49:58,Ogui Road,Chukwudi,Zobo Drink,4,300,1200,Transfer
+28,2026-03-21 13:50:13,New Haven,Uche,Chicken Burger,2,1500,3000,Transfer
+29,2026-03-21 13:50:28,Ogui Road,Chukwudi,Chips & Chicken,5,1300,6500,POS
+30,2026-03-21 13:50:43,Independence Layout,Ngozi,Meat Pie,5,400,2000,POS
+31,2026-03-21 13:50:58,New Haven,Adaeze,Chapman,1,600,600,Transfer
+32,2026-03-21 13:51:13,Trans-Ekulu,Chioma,Meat Pie,4,400,1600,POS
+33,2026-03-21 13:51:28,New Haven,Ngozi,Shawarma,1,1200,1200,Transfer
+34,2026-03-21 13:51:43,GRA,Chukwudi,Chips & Chicken,2,1300,2600,Transfer
+35,2026-03-21 13:51:58,Independence Layout,Uche,Peppered Chicken,2,1100,2200,Cash
+36,2026-03-21 13:52:13,Independence Layout,Chukwudi,Jollof Rice,5,850,4250,Cash
+37,2026-03-21 13:52:28,New Haven,Ngozi,Chapman,3,600,1800,POS
+38,2026-03-21 13:52:43,Trans-Ekulu,Chioma,Chapman,3,600,1800,Cash
+39,2026-03-21 13:52:58,Ogui Road,Uche,Shawarma,4,1200,4800,POS
+40,2026-03-21 13:53:13,Independence Layout,Chukwudi,Shawarma,1,1200,1200,POS
+41,2026-03-21 13:53:28,Ogui Road,Emeka,Shawarma,2,1200,2400,POS
+42,2026-03-21 13:53:43,Ogui Road,Ngozi,Fried Rice,5,900,4500,Transfer
+43,2026-03-21 13:53:58,GRA,Uche,Chicken Burger,2,1500,3000,POS
+44,2026-03-21 13:54:13,GRA,Ngozi,Chips & Chicken,4,1300,5200,Transfer
+45,2026-03-21 13:54:28,Ogui Road,Uche,Peppered Chicken,1,1100,1100,POS
+46,2026-03-21 13:54:43,GRA,Chioma,Moi Moi,4,500,2000,Transfer
+47,2026-03-21 13:54:58,Trans-Ekulu,Adaeze,Chapman,4,600,2400,Transfer
+48,2026-03-21 13:55:14,Independence Layout,Uche,Jollof Rice,4,850,3400,Cash
+49,2026-03-21 13:55:29,GRA,Emeka,Moi Moi,4,500,2000,Transfer
+50,2026-03-21 13:55:44,GRA,Chioma,Moi Moi,2,500,1000,POS
+51,2026-03-21 13:55:59,Ogui Road,Uche,Chips & Chicken,1,1300,1300,Cash
+52,2026-03-21 13:56:14,Trans-Ekulu,Chioma,Moi Moi,3,500,1500,Transfer
+53,2026-03-21 13:56:29,Trans-Ekulu,Adaeze,Meat Pie,4,400,1600,POS
+54,2026-03-21 13:56:44,Ogui Road,Adaeze,Chicken Burger,3,1500,4500,POS
+55,2026-03-21 13:56:59,Independence Layout,Uche,Chapman,3,600,1800,Cash
+56,2026-03-21 13:57:14,New Haven,Adaeze,Chicken Burger,1,1500,1500,POS
+57,2026-03-21 13:57:29,Ogui Road,Chioma,Moi Moi,2,500,1000,Cash
+58,2026-03-21 13:57:44,Ogui Road,Emeka,Chapman,3,600,1800,Transfer
+59,2026-03-21 13:57:59,New Haven,Ngozi,Fried Rice,2,900,1800,POS
+60,2026-03-21 13:58:14,New Haven,Chioma,Chips & Chicken,4,1300,5200,Cash
+61,2026-03-21 13:58:29,Independence Layout,Uche,Chicken Burger,1,1500,1500,POS
+62,2026-03-21 13:58:44,GRA,Chioma,Chapman,2,600,1200,POS
+63,2026-03-21 13:58:59,New Haven,Uche,Peppered Chicken,3,1100,3300,Transfer
+64,2026-03-21 13:59:14,GRA,Chukwudi,Peppered Chicken,1,1100,1100,Cash
+65,2026-03-21 13:59:29,Independence Layout,Chioma,Meat Pie,4,400,1600,Cash
+66,2026-03-21 13:59:44,Ogui Road,Emeka,Zobo Drink,2,300,600,Transfer
+67,2026-03-21 13:59:59,Independence Layout,Ngozi,Chips & Chicken,2,1300,2600,Transfer
+68,2026-03-21 14:00:14,Trans-Ekulu,Emeka,Jollof Rice,5,850,4250,Cash
+69,2026-03-21 14:00:29,GRA,Emeka,Zobo Drink,2,300,600,Cash
+70,2026-03-21 14:00:44,Trans-Ekulu,Chioma,Meat Pie,4,400,1600,Transfer
+71,2026-03-21 14:00:59,New Haven,Chukwudi,Meat Pie,1,400,400,Cash
+72,2026-03-21 14:01:14,Independence Layout,Adaeze,Chapman,5,600,3000,Cash
+73,2026-03-21 14:01:29,Independence Layout,Adaeze,Peppered Chicken,4,1100,4400,POS
+74,2026-03-21 14:01:44,New Haven,Chukwudi,Jollof Rice,1,850,850,Transfer
+75,2026-03-21 14:01:59,Ogui Road,Chukwudi,Meat Pie,1,400,400,POS
+76,2026-03-21 14:02:14,Trans-Ekulu,Chioma,Moi Moi,4,500,2000,Transfer
+77,2026-03-21 14:02:29,New Haven,Adaeze,Fried Rice,2,900,1800,POS
+78,2026-03-21 14:02:44,GRA,Emeka,Shawarma,4,1200,4800,Transfer
+79,2026-03-21 14:02:59,GRA,Emeka,Jollof Rice,3,850,2550,POS
+80,2026-03-21 14:03:14,Ogui Road,Chukwudi,Moi Moi,1,500,500,Transfer
+81,2026-03-21 14:03:29,GRA,Chukwudi,Meat Pie,1,400,400,Cash
+82,2026-03-21 14:03:44,Trans-Ekulu,Emeka,Chips & Chicken,3,1300,3900,POS
+83,2026-03-21 14:03:59,Ogui Road,Chukwudi,Fried Rice,5,900,4500,Cash
+84,2026-03-21 14:04:14,Independence Layout,Adaeze,Jollof Rice,5,850,4250,POS
+85,2026-03-21 14:04:29,Ogui Road,Uche,Chips & Chicken,4,1300,5200,Transfer
+86,2026-03-21 14:04:44,Independence Layout,Chukwudi,Shawarma,3,1200,3600,POS
+87,2026-03-21 14:04:59,Independence Layout,Ngozi,Jollof Rice,4,850,3400,Cash
+88,2026-03-21 14:05:14,Independence Layout,Adaeze,Peppered Chicken,1,1100,1100,Transfer
+89,2026-03-21 14:05:29,Independence Layout,Ngozi,Chapman,4,600,2400,POS
+90,2026-03-21 14:05:44,Ogui Road,Uche,Chicken Burger,3,1500,4500,POS
+91,2026-03-21 14:05:59,GRA,Chukwudi,Chapman,5,600,3000,Cash
+92,2026-03-21 14:06:14,Independence Layout,Chukwudi,Peppered Chicken,3,1100,3300,Cash
+93,2026-03-21 14:06:29,Independence Layout,Chioma,Meat Pie,5,400,2000,Cash
+94,2026-03-21 14:06:44,Ogui Road,Ngozi,Shawarma,3,1200,3600,Cash
+95,2026-03-21 14:06:59,Independence Layout,Chukwudi,Chicken Burger,5,1500,7500,POS
+96,2026-03-21 14:07:14,New Haven,Emeka,Meat Pie,3,400,1200,Transfer
+97,2026-03-21 14:07:29,New Haven,Chukwudi,Chicken Burger,2,1500,3000,Cash
+98,2026-03-21 14:07:44,Trans-Ekulu,Adaeze,Meat Pie,1,400,400,Transfer
+99,2026-03-21 14:07:59,Ogui Road,Adaeze,Peppered Chicken,5,1100,5500,POS
+100,2026-03-21 14:08:14,Ogui Road,Emeka,Peppered Chicken,4,1100,4400,POS
+101,2026-03-21 14:08:29,New Haven,Chioma,Chapman,1,600,600,Transfer
+102,2026-03-21 14:08:44,Ogui Road,Emeka,Zobo Drink,3,300,900,Cash
+103,2026-03-21 14:08:59,Ogui Road,Emeka,Jollof Rice,1,850,850,Cash
+104,2026-03-21 14:09:14,Independence Layout,Chukwudi,Shawarma,5,1200,6000,Cash
+105,2026-03-21 14:09:30,GRA,Ngozi,Jollof Rice,2,850,1700,Transfer
+106,2026-03-21 14:09:45,Independence Layout,Chioma,Chicken Burger,4,1500,6000,POS
+107,2026-03-21 14:10:00,Ogui Road,Chioma,Chicken Burger,4,1500,6000,Cash
+108,2026-03-21 14:10:15,Trans-Ekulu,Uche,Shawarma,4,1200,4800,POS
+109,2026-03-21 14:10:30,Trans-Ekulu,Chioma,Zobo Drink,4,300,1200,POS
+110,2026-03-21 14:10:45,GRA,Adaeze,Shawarma,4,1200,4800,POS
+111,2026-03-21 14:11:00,Independence Layout,Adaeze,Fried Rice,4,900,3600,POS
+112,2026-03-21 14:11:15,New Haven,Uche,Jollof Rice,2,850,1700,Transfer
+113,2026-03-21 14:11:30,New Haven,Emeka,Peppered Chicken,2,1100,2200,POS
+114,2026-03-21 14:11:45,Ogui Road,Emeka,Moi Moi,1,500,500,Transfer
+115,2026-03-21 14:12:00,GRA,Ngozi,Fried Rice,5,900,4500,Transfer
+116,2026-03-21 14:12:15,New Haven,Adaeze,Jollof Rice,3,850,2550,Transfer
+117,2026-03-21 14:12:30,New Haven,Chukwudi,Jollof Rice,3,850,2550,POS
+118,2026-03-21 14:12:45,Ogui Road,Emeka,Jollof Rice,4,850,3400,Transfer
+119,2026-03-21 14:13:00,Trans-Ekulu,Uche,Moi Moi,3,500,1500,POS
+120,2026-03-21 14:13:15,Trans-Ekulu,Adaeze,Shawarma,3,1200,3600,POS
+121,2026-03-21 14:13:30,Trans-Ekulu,Chukwudi,Shawarma,1,1200,1200,POS
+122,2026-03-21 14:13:45,Ogui Road,Adaeze,Peppered Chicken,3,1100,3300,POS
+123,2026-03-21 14:14:00,New Haven,Chioma,Peppered Chicken,2,1100,2200,Transfer
+124,2026-03-21 14:14:15,Independence Layout,Ngozi,Chicken Burger,3,1500,4500,Transfer
+125,2026-03-21 14:14:30,New Haven,Adaeze,Fried Rice,1,900,900,Transfer
+126,2026-03-21 14:14:45,Independence Layout,Uche,Meat Pie,4,400,1600,Transfer
+127,2026-03-21 14:15:00,Trans-Ekulu,Adaeze,Shawarma,2,1200,2400,Transfer
+128,2026-03-21 14:15:15,Trans-Ekulu,Uche,Moi Moi,1,500,500,Cash
+129,2026-03-21 14:15:30,Ogui Road,Chioma,Meat Pie,3,400,1200,Cash
+130,2026-03-21 14:15:45,Trans-Ekulu,Emeka,Meat Pie,2,400,800,POS
+131,2026-03-21 14:16:00,Independence Layout,Ngozi,Peppered Chicken,5,1100,5500,POS
+132,2026-03-21 14:16:15,GRA,Ngozi,Chips & Chicken,2,1300,2600,POS
+133,2026-03-21 14:16:30,GRA,Uche,Peppered Chicken,3,1100,3300,POS
+134,2026-03-21 14:16:45,Independence Layout,Ngozi,Chips & Chicken,2,1300,2600,Cash
+135,2026-03-21 14:17:00,Independence Layout,Uche,Chicken Burger,4,1500,6000,POS
+136,2026-03-21 14:17:15,GRA,Uche,Shawarma,3,1200,3600,Cash
+137,2026-03-21 14:17:30,Ogui Road,Emeka,Meat Pie,2,400,800,POS
+138,2026-03-21 14:17:45,Independence Layout,Emeka,Meat Pie,3,400,1200,Transfer
+139,2026-03-21 14:18:00,Independence Layout,Ngozi,Zobo Drink,4,300,1200,Transfer
+140,2026-03-21 14:18:15,Trans-Ekulu,Chioma,Peppered Chicken,5,1100,5500,Cash
+141,2026-03-21 14:18:30,Ogui Road,Uche,Meat Pie,1,400,400,Cash
+142,2026-03-21 14:18:45,Ogui Road,Ngozi,Chips & Chicken,2,1300,2600,Transfer
+143,2026-03-21 14:19:00,Trans-Ekulu,Chioma,Chips & Chicken,3,1300,3900,Transfer
+144,2026-03-21 14:19:15,Trans-Ekulu,Uche,Chips & Chicken,5,1300,6500,Cash
+145,2026-03-21 14:19:30,New Haven,Chukwudi,Meat Pie,4,400,1600,Transfer
+146,2026-03-21 14:19:45,Trans-Ekulu,Ngozi,Chicken Burger,3,1500,4500,POS
+147,2026-03-21 14:20:00,New Haven,Chioma,Chips & Chicken,1,1300,1300,POS
+148,2026-03-21 14:20:15,New Haven,Adaeze,Meat Pie,3,400,1200,Cash
+149,2026-03-21 14:20:30,GRA,Adaeze,Meat Pie,1,400,400,POS
+150,2026-03-21 14:20:45,GRA,Emeka,Chapman,4,600,2400,Cash
+151,2026-03-21 14:21:00,Ogui Road,Chioma,Fried Rice,1,900,900,Cash
+152,2026-03-21 14:21:16,Trans-Ekulu,Chukwudi,Moi Moi,4,500,2000,POS
+153,2026-03-21 14:21:31,New Haven,Uche,Zobo Drink,3,300,900,Cash
+154,2026-03-21 14:21:46,GRA,Chukwudi,Chicken Burger,5,1500,7500,Transfer
+155,2026-03-21 14:22:01,GRA,Uche,Zobo Drink,2,300,600,Transfer
+156,2026-03-21 14:22:16,New Haven,Emeka,Chicken Burger,2,1500,3000,Transfer
+157,2026-03-21 14:22:31,Trans-Ekulu,Chukwudi,Chapman,4,600,2400,Cash
+158,2026-03-21 14:22:46,New Haven,Adaeze,Chapman,5,600,3000,Cash
+159,2026-03-21 14:23:01,Independence Layout,Chioma,Jollof Rice,3,850,2550,Cash
+160,2026-03-21 14:23:16,GRA,Emeka,Chapman,4,600,2400,Cash
+161,2026-03-21 14:23:31,Trans-Ekulu,Uche,Moi Moi,2,500,1000,POS
+162,2026-03-21 14:23:46,GRA,Chukwudi,Peppered Chicken,5,1100,5500,Transfer
+163,2026-03-21 14:24:01,New Haven,Chukwudi,Zobo Drink,1,300,300,POS
+164,2026-03-21 14:24:16,New Haven,Ngozi,Zobo Drink,2,300,600,Transfer
+165,2026-03-21 14:24:31,Independence Layout,Ngozi,Shawarma,1,1200,1200,POS
+166,2026-03-21 14:24:46,GRA,Chukwudi,Fried Rice,2,900,1800,Cash
+167,2026-03-21 14:25:01,Independence Layout,Ngozi,Chapman,5,600,3000,Cash
+168,2026-03-21 14:25:16,GRA,Ngozi,Jollof Rice,1,850,850,Transfer
+169,2026-03-21 14:25:31,Trans-Ekulu,Emeka,Meat Pie,5,400,2000,Cash
+170,2026-03-21 14:25:46,Ogui Road,Uche,Zobo Drink,5,300,1500,POS
+171,2026-03-21 14:26:01,Trans-Ekulu,Chukwudi,Moi Moi,4,500,2000,Transfer
+172,2026-03-21 14:26:16,Trans-Ekulu,Uche,Moi Moi,1,500,500,Cash
+173,2026-03-21 14:26:31,New Haven,Emeka,Chapman,5,600,3000,Transfer
+174,2026-03-21 14:26:46,Independence Layout,Ngozi,Moi Moi,5,500,2500,Transfer
+175,2026-03-21 14:27:01,Independence Layout,Ngozi,Moi Moi,2,500,1000,POS
+176,2026-03-21 14:27:16,New Haven,Chukwudi,Meat Pie,3,400,1200,Cash
+177,2026-03-21 14:27:31,New Haven,Ngozi,Jollof Rice,3,850,2550,Cash
+178,2026-03-21 14:27:46,GRA,Ngozi,Peppered Chicken,2,1100,2200,Transfer
+179,2026-03-21 14:28:01,GRA,Chioma,Zobo Drink,2,300,600,Cash
+180,2026-03-21 14:28:16,Ogui Road,Uche,Meat Pie,2,400,800,Cash
+181,2026-03-21 14:28:31,New Haven,Adaeze,Meat Pie,4,400,1600,Transfer
+182,2026-03-21 14:28:46,New Haven,Uche,Chicken Burger,2,1500,3000,Transfer
+183,2026-03-21 14:29:01,Ogui Road,Uche,Meat Pie,2,400,800,POS
+184,2026-03-21 14:29:16,New Haven,Emeka,Chips & Chicken,3,1300,3900,Cash
+185,2026-03-21 14:29:31,Trans-Ekulu,Emeka,Moi Moi,4,500,2000,Cash
+186,2026-03-21 14:29:46,New Haven,Chukwudi,Chicken Burger,5,1500,7500,POS
+187,2026-03-21 14:30:01,GRA,Emeka,Meat Pie,3,400,1200,POS
+188,2026-03-21 14:30:16,Independence Layout,Ngozi,Chicken Burger,5,1500,7500,Cash
+189,2026-03-21 14:30:31,Ogui Road,Adaeze,Jollof Rice,1,850,850,Transfer
+190,2026-03-21 14:30:46,New Haven,Ngozi,Meat Pie,4,400,1600,Transfer
+191,2026-03-21 14:31:01,Independence Layout,Adaeze,Chips & Chicken,2,1300,2600,POS
+192,2026-03-21 14:31:16,Trans-Ekulu,Uche,Moi Moi,3,500,1500,Transfer
+193,2026-03-21 14:31:31,Trans-Ekulu,Uche,Chicken Burger,1,1500,1500,Cash
+194,2026-03-21 14:31:46,GRA,Uche,Meat Pie,1,400,400,Cash
+195,2026-03-21 14:32:01,Trans-Ekulu,Emeka,Chips & Chicken,2,1300,2600,POS
+196,2026-03-21 14:32:16,GRA,Adaeze,Zobo Drink,1,300,300,Transfer
+197,2026-03-21 14:32:31,Trans-Ekulu,Emeka,Moi Moi,3,500,1500,Cash
+198,2026-03-21 14:32:46,Trans-Ekulu,Adaeze,Chapman,1,600,600,POS
+199,2026-03-21 14:33:01,Ogui Road,Adaeze,Meat Pie,2,400,800,POS
+200,2026-03-21 14:33:16,Ogui Road,Chukwudi,Peppered Chicken,2,1100,2200,Cash
+201,2026-03-21 14:33:31,GRA,Chukwudi,Moi Moi,1,500,500,Transfer
+202,2026-03-21 14:33:46,Trans-Ekulu,Adaeze,Zobo Drink,2,300,600,Transfer
+203,2026-03-21 14:34:01,New Haven,Chioma,Fried Rice,4,900,3600,Cash
+204,2026-03-21 14:34:16,Ogui Road,Ngozi,Chapman,3,600,1800,Cash
+205,2026-03-21 14:34:31,New Haven,Adaeze,Zobo Drink,5,300,1500,Cash
+206,2026-03-21 14:34:46,Trans-Ekulu,Ngozi,Chapman,4,600,2400,POS
+207,2026-03-21 14:35:01,New Haven,Ngozi,Jollof Rice,3,850,2550,Transfer
+208,2026-03-21 14:35:16,Ogui Road,Emeka,Zobo Drink,1,300,300,POS
+209,2026-03-21 14:35:31,Independence Layout,Chioma,Peppered Chicken,1,1100,1100,Cash
+210,2026-03-21 14:35:46,Independence Layout,Uche,Moi Moi,5,500,2500,Transfer
+211,2026-03-21 14:36:02,GRA,Chukwudi,Zobo Drink,5,300,1500,POS
+212,2026-03-21 14:36:17,GRA,Ngozi,Chips & Chicken,4,1300,5200,Cash
+213,2026-03-21 14:36:32,Trans-Ekulu,Ngozi,Zobo Drink,5,300,1500,Transfer
+214,2026-03-21 14:36:47,GRA,Ngozi,Chips & Chicken,1,1300,1300,POS
+215,2026-03-21 14:37:02,GRA,Emeka,Chicken Burger,3,1500,4500,POS
+216,2026-03-21 14:37:17,New Haven,Chioma,Moi Moi,3,500,1500,POS
+217,2026-03-21 14:37:32,New Haven,Ngozi,Chips & Chicken,2,1300,2600,Transfer
+218,2026-03-21 14:37:47,Ogui Road,Emeka,Shawarma,2,1200,2400,Cash
+219,2026-03-21 14:38:02,Independence Layout,Uche,Chapman,2,600,1200,Transfer
+220,2026-03-21 14:38:17,New Haven,Uche,Meat Pie,5,400,2000,POS
+221,2026-03-21 14:38:32,Independence Layout,Chukwudi,Fried Rice,4,900,3600,Transfer
+222,2026-03-21 14:38:47,Independence Layout,Chioma,Fried Rice,2,900,1800,Cash
+223,2026-03-21 14:39:02,Trans-Ekulu,Adaeze,Fried Rice,2,900,1800,Cash
+224,2026-03-21 14:39:17,Ogui Road,Adaeze,Fried Rice,2,900,1800,Transfer
+225,2026-03-21 14:39:32,New Haven,Chioma,Fried Rice,2,900,1800,POS
+226,2026-03-21 14:39:47,Independence Layout,Uche,Chips & Chicken,1,1300,1300,Transfer
+227,2026-03-21 14:40:02,New Haven,Emeka,Zobo Drink,3,300,900,POS
+228,2026-03-21 14:40:17,Ogui Road,Chioma,Peppered Chicken,2,1100,2200,POS
+229,2026-03-21 14:40:32,Ogui Road,Adaeze,Chapman,3,600,1800,Cash
+230,2026-03-21 14:40:47,GRA,Ngozi,Peppered Chicken,1,1100,1100,POS
+231,2026-03-21 14:41:02,Trans-Ekulu,Emeka,Chicken Burger,2,1500,3000,POS
+232,2026-03-21 14:41:17,Independence Layout,Chioma,Meat Pie,2,400,800,Cash
+233,2026-03-21 14:41:32,Independence Layout,Chukwudi,Chips & Chicken,4,1300,5200,Transfer
+234,2026-03-21 14:41:47,Ogui Road,Emeka,Zobo Drink,3,300,900,Transfer
+235,2026-03-21 14:42:02,Independence Layout,Ngozi,Moi Moi,1,500,500,POS
+236,2026-03-21 14:42:17,New Haven,Adaeze,Zobo Drink,3,300,900,POS
+237,2026-03-21 14:42:32,GRA,Adaeze,Fried Rice,2,900,1800,POS
+238,2026-03-21 14:42:47,Trans-Ekulu,Chukwudi,Peppered Chicken,3,1100,3300,Transfer
+239,2026-03-21 14:43:02,GRA,Ngozi,Peppered Chicken,3,1100,3300,Transfer
+240,2026-03-21 14:43:17,GRA,Emeka,Zobo Drink,1,300,300,Cash
+241,2026-03-21 14:43:32,Trans-Ekulu,Uche,Moi Moi,1,500,500,POS
+242,2026-03-21 14:43:47,New Haven,Uche,Peppered Chicken,1,1100,1100,Transfer
+243,2026-03-21 14:44:02,GRA,Ngozi,Moi Moi,4,500,2000,Transfer
+244,2026-03-21 14:44:17,Trans-Ekulu,Chioma,Chicken Burger,4,1500,6000,Transfer
+245,2026-03-21 14:44:32,New Haven,Adaeze,Moi Moi,2,500,1000,Transfer
+246,2026-03-21 14:44:47,GRA,Uche,Chicken Burger,4,1500,6000,Cash
+247,2026-03-21 14:45:02,New Haven,Chukwudi,Moi Moi,5,500,2500,Transfer
+248,2026-03-21 14:45:17,GRA,Uche,Jollof Rice,3,850,2550,Transfer
+249,2026-03-21 14:45:32,New Haven,Adaeze,Jollof Rice,2,850,1700,POS
+250,2026-03-21 14:45:47,GRA,Adaeze,Jollof Rice,4,850,3400,Cash
+251,2026-03-21 14:46:02,Ogui Road,Ngozi,Chicken Burger,1,1500,1500,Cash
+252,2026-03-21 14:46:17,Independence Layout,Uche,Zobo Drink,5,300,1500,POS
+253,2026-03-21 14:46:32,Ogui Road,Emeka,Chapman,4,600,2400,Cash
+254,2026-03-21 14:46:47,Trans-Ekulu,Ngozi,Fried Rice,1,900,900,Cash
+255,2026-03-21 14:47:02,Ogui Road,Uche,Chapman,2,600,1200,Cash
+256,2026-03-21 14:47:17,Trans-Ekulu,Chukwudi,Zobo Drink,5,300,1500,Transfer
+257,2026-03-21 14:47:32,New Haven,Uche,Chapman,2,600,1200,Transfer
+258,2026-03-21 14:47:47,New Haven,Emeka,Moi Moi,1,500,500,POS
+259,2026-03-21 14:48:02,Independence Layout,Adaeze,Peppered Chicken,3,1100,3300,POS
+260,2026-03-21 14:48:17,Ogui Road,Uche,Shawarma,2,1200,2400,POS
+261,2026-03-21 14:48:32,Ogui Road,Adaeze,Chips & Chicken,2,1300,2600,POS
+262,2026-03-21 14:48:47,New Haven,Chioma,Jollof Rice,3,850,2550,POS
+263,2026-03-21 14:49:02,Ogui Road,Emeka,Meat Pie,2,400,800,POS
+264,2026-03-21 14:49:17,New Haven,Adaeze,Zobo Drink,3,300,900,Cash
+265,2026-03-21 14:49:32,Trans-Ekulu,Chioma,Chips & Chicken,5,1300,6500,Cash
+266,2026-03-21 14:49:47,Independence Layout,Chioma,Chicken Burger,4,1500,6000,POS
+267,2026-03-21 14:50:02,Independence Layout,Adaeze,Fried Rice,2,900,1800,Transfer
+268,2026-03-21 14:50:18,New Haven,Emeka,Moi Moi,2,500,1000,Cash
+269,2026-03-21 14:50:33,New Haven,Ngozi,Zobo Drink,3,300,900,POS
+270,2026-03-21 14:50:48,GRA,Chukwudi,Peppered Chicken,4,1100,4400,Transfer
+271,2026-03-21 14:51:03,Ogui Road,Uche,Chips & Chicken,3,1300,3900,POS
+272,2026-03-21 14:51:18,Trans-Ekulu,Ngozi,Jollof Rice,3,850,2550,POS
+273,2026-03-21 14:51:33,New Haven,Chukwudi,Moi Moi,1,500,500,POS
+274,2026-03-21 14:51:48,GRA,Chukwudi,Fried Rice,4,900,3600,Transfer
+275,2026-03-21 14:52:03,Independence Layout,Emeka,Zobo Drink,4,300,1200,POS
+276,2026-03-21 14:52:18,Independence Layout,Uche,Shawarma,1,1200,1200,Cash
+277,2026-03-21 14:52:33,Ogui Road,Chukwudi,Shawarma,2,1200,2400,POS
+278,2026-03-21 14:52:48,GRA,Ngozi,Meat Pie,2,400,800,Transfer
+279,2026-03-21 14:53:03,Ogui Road,Adaeze,Chicken Burger,5,1500,7500,Cash
+280,2026-03-21 14:53:18,GRA,Uche,Chapman,1,600,600,Transfer
+281,2026-03-21 14:53:33,GRA,Emeka,Meat Pie,1,400,400,Transfer
+282,2026-03-21 14:53:48,Trans-Ekulu,Adaeze,Chapman,1,600,600,Transfer
+283,2026-03-21 14:54:03,Independence Layout,Adaeze,Shawarma,1,1200,1200,Transfer
+284,2026-03-21 14:54:18,Ogui Road,Chioma,Chips & Chicken,5,1300,6500,Cash
+285,2026-03-21 14:54:33,Independence Layout,Chioma,Jollof Rice,1,850,850,Cash
+286,2026-03-21 14:54:48,Trans-Ekulu,Chioma,Shawarma,4,1200,4800,POS
+287,2026-03-21 14:55:04,Ogui Road,Adaeze,Shawarma,1,1200,1200,Transfer
+288,2026-03-21 14:55:19,New Haven,Emeka,Chapman,4,600,2400,POS
+289,2026-03-21 14:55:34,Trans-Ekulu,Emeka,Peppered Chicken,5,1100,5500,Cash
+290,2026-03-21 14:55:49,New Haven,Adaeze,Zobo Drink,5,300,1500,Cash
+291,2026-03-21 14:56:04,New Haven,Uche,Peppered Chicken,3,1100,3300,Cash
+292,2026-03-21 14:56:19,Independence Layout,Chioma,Chips & Chicken,5,1300,6500,Cash
+293,2026-03-21 14:56:34,Independence Layout,Adaeze,Zobo Drink,1,300,300,POS
+294,2026-03-21 14:56:49,GRA,Uche,Fried Rice,1,900,900,Transfer
+295,2026-03-21 14:57:04,Independence Layout,Ngozi,Moi Moi,1,500,500,Cash
+296,2026-03-21 14:57:19,New Haven,Emeka,Chicken Burger,1,1500,1500,Cash
+297,2026-03-21 14:57:34,Trans-Ekulu,Chioma,Fried Rice,1,900,900,POS
+298,2026-03-21 14:57:49,New Haven,Adaeze,Jollof Rice,1,850,850,POS
+299,2026-03-21 14:58:04,GRA,Chukwudi,Chicken Burger,3,1500,4500,Cash
+300,2026-03-21 14:58:19,Trans-Ekulu,Uche,Peppered Chicken,2,1100,2200,POS
+301,2026-03-21 14:58:34,Trans-Ekulu,Ngozi,Zobo Drink,1,300,300,Cash
+302,2026-03-21 14:58:49,Trans-Ekulu,Chioma,Zobo Drink,1,300,300,POS
+303,2026-03-21 14:59:04,New Haven,Ngozi,Peppered Chicken,5,1100,5500,Transfer
+304,2026-03-21 14:59:19,GRA,Chukwudi,Chips & Chicken,1,1300,1300,POS
+305,2026-03-21 14:59:34,Ogui Road,Adaeze,Peppered Chicken,2,1100,2200,Transfer
+306,2026-03-21 14:59:49,GRA,Chukwudi,Peppered Chicken,4,1100,4400,POS
+307,2026-03-21 15:00:04,Trans-Ekulu,Chioma,Meat Pie,1,400,400,POS
+308,2026-03-21 15:00:19,Trans-Ekulu,Ngozi,Fried Rice,4,900,3600,Cash
+309,2026-03-21 15:00:34,Ogui Road,Emeka,Jollof Rice,5,850,4250,POS
+310,2026-03-21 15:00:49,Independence Layout,Uche,Chips & Chicken,4,1300,5200,Cash
+311,2026-03-21 15:01:04,New Haven,Emeka,Meat Pie,3,400,1200,Transfer
+312,2026-03-21 15:01:19,Independence Layout,Chukwudi,Chapman,5,600,3000,POS
+313,2026-03-21 15:01:34,GRA,Uche,Fried Rice,4,900,3600,POS
+314,2026-03-21 15:01:49,Independence Layout,Chukwudi,Shawarma,3,1200,3600,Cash
+315,2026-03-21 15:02:04,Ogui Road,Ngozi,Moi Moi,5,500,2500,Cash
+316,2026-03-21 15:02:20,Independence Layout,Adaeze,Zobo Drink,2,300,600,Cash
+317,2026-03-21 15:02:35,Trans-Ekulu,Emeka,Fried Rice,5,900,4500,Transfer
+318,2026-03-21 15:02:50,New Haven,Chioma,Jollof Rice,1,850,850,Cash
+319,2026-03-21 15:03:05,New Haven,Uche,Meat Pie,3,400,1200,POS
+320,2026-03-21 15:03:20,Trans-Ekulu,Uche,Jollof Rice,5,850,4250,POS
+321,2026-03-21 15:03:35,Trans-Ekulu,Uche,Meat Pie,1,400,400,Transfer
+322,2026-03-21 15:03:50,GRA,Chioma,Jollof Rice,4,850,3400,Cash
+323,2026-03-21 15:04:05,Ogui Road,Chioma,Meat Pie,4,400,1600,Cash
+324,2026-03-21 15:04:27,Trans-Ekulu,Adaeze,Chapman,5,600,3000,Transfer
+325,2026-03-21 15:04:42,New Haven,Emeka,Shawarma,2,1200,2400,Transfer
+326,2026-03-21 15:04:57,New Haven,Ngozi,Jollof Rice,5,850,4250,Cash
+327,2026-03-21 15:05:12,New Haven,Emeka,Chicken Burger,4,1500,6000,Cash
+328,2026-03-21 15:05:28,New Haven,Chioma,Shawarma,3,1200,3600,Transfer
+329,2026-03-21 15:05:43,Independence Layout,Adaeze,Zobo Drink,2,300,600,Transfer
+330,2026-03-21 15:05:58,Trans-Ekulu,Chukwudi,Shawarma,1,1200,1200,Cash
+331,2026-03-21 15:06:13,New Haven,Chukwudi,Jollof Rice,3,850,2550,Transfer
+332,2026-03-21 15:06:28,New Haven,Uche,Chapman,2,600,1200,Cash
+333,2026-03-21 15:06:44,GRA,Chioma,Chapman,4,600,2400,Cash
+334,2026-03-21 15:06:59,Ogui Road,Chioma,Meat Pie,3,400,1200,POS
+335,2026-03-21 15:07:14,New Haven,Uche,Shawarma,4,1200,4800,POS
+336,2026-03-21 15:07:29,New Haven,Uche,Jollof Rice,4,850,3400,Transfer
+337,2026-03-21 15:07:44,Independence Layout,Ngozi,Moi Moi,5,500,2500,Transfer
+338,2026-03-21 15:07:59,GRA,Ngozi,Jollof Rice,3,850,2550,Cash
+339,2026-03-21 15:08:14,Independence Layout,Uche,Chips & Chicken,3,1300,3900,POS
+340,2026-03-21 15:08:29,Independence Layout,Emeka,Peppered Chicken,5,1100,5500,Cash
+341,2026-03-21 15:08:44,GRA,Adaeze,Chicken Burger,3,1500,4500,Cash
+342,2026-03-21 15:08:59,Ogui Road,Chioma,Shawarma,5,1200,6000,Cash
+343,2026-03-21 15:09:14,New Haven,Uche,Peppered Chicken,1,1100,1100,Cash
+344,2026-03-21 15:09:29,GRA,Chukwudi,Shawarma,1,1200,1200,Transfer
+345,2026-03-21 15:09:44,GRA,Chioma,Fried Rice,5,900,4500,Transfer
+346,2026-03-21 15:09:59,Independence Layout,Emeka,Jollof Rice,3,850,2550,POS
+347,2026-03-21 15:10:14,New Haven,Chioma,Meat Pie,1,400,400,POS
+348,2026-03-21 15:10:29,Ogui Road,Emeka,Shawarma,5,1200,6000,Cash
+349,2026-03-21 15:10:44,Trans-Ekulu,Chioma,Chapman,1,600,600,POS
+350,2026-03-21 15:10:59,GRA,Ngozi,Peppered Chicken,1,1100,1100,Transfer
+351,2026-03-21 15:11:14,Trans-Ekulu,Ngozi,Chips & Chicken,4,1300,5200,Cash
+352,2026-03-21 15:11:29,GRA,Chukwudi,Moi Moi,2,500,1000,Cash
+353,2026-03-21 15:11:44,Independence Layout,Chioma,Peppered Chicken,3,1100,3300,POS
+354,2026-03-21 15:11:59,Ogui Road,Chukwudi,Jollof Rice,1,850,850,POS
+355,2026-03-21 15:12:14,GRA,Chioma,Meat Pie,2,400,800,Transfer
+356,2026-03-21 15:12:29,Trans-Ekulu,Emeka,Fried Rice,1,900,900,POS
+357,2026-03-21 15:12:44,New Haven,Adaeze,Meat Pie,1,400,400,Transfer
+358,2026-03-21 15:12:59,New Haven,Uche,Meat Pie,2,400,800,POS
+359,2026-03-21 15:13:15,Independence Layout,Chioma,Fried Rice,4,900,3600,Cash
+360,2026-03-21 15:13:30,Trans-Ekulu,Ngozi,Fried Rice,4,900,3600,Transfer
+361,2026-03-21 15:13:45,Trans-Ekulu,Chioma,Peppered Chicken,3,1100,3300,POS
+362,2026-03-21 15:14:00,Trans-Ekulu,Chioma,Shawarma,3,1200,3600,Transfer
+363,2026-03-21 15:14:15,GRA,Emeka,Shawarma,1,1200,1200,POS
+364,2026-03-21 15:14:30,Ogui Road,Uche,Meat Pie,1,400,400,Cash
+365,2026-03-21 15:14:46,Trans-Ekulu,Ngozi,Shawarma,3,1200,3600,POS
+366,2026-03-21 15:15:01,New Haven,Chioma,Zobo Drink,4,300,1200,POS
+367,2026-03-21 15:15:16,Ogui Road,Chukwudi,Chips & Chicken,4,1300,5200,Cash
+368,2026-03-21 15:15:32,New Haven,Ngozi,Meat Pie,1,400,400,Transfer
+369,2026-03-21 15:15:47,Independence Layout,Emeka,Fried Rice,2,900,1800,POS
+370,2026-03-21 15:16:02,GRA,Chioma,Shawarma,1,1200,1200,Transfer
+371,2026-03-21 15:16:17,Independence Layout,Chukwudi,Moi Moi,3,500,1500,POS
+372,2026-03-21 15:16:32,New Haven,Adaeze,Zobo Drink,3,300,900,Transfer
+373,2026-03-21 15:16:47,Trans-Ekulu,Ngozi,Jollof Rice,3,850,2550,Transfer
+374,2026-03-21 15:17:02,Trans-Ekulu,Chukwudi,Jollof Rice,5,850,4250,Transfer
+375,2026-03-21 15:17:17,Independence Layout,Adaeze,Zobo Drink,1,300,300,Transfer
+376,2026-03-21 15:17:32,Independence Layout,Uche,Fried Rice,4,900,3600,Cash
+377,2026-03-21 15:17:47,New Haven,Chioma,Moi Moi,5,500,2500,POS
+378,2026-03-21 15:18:02,GRA,Ngozi,Fried Rice,5,900,4500,Transfer
+379,2026-03-21 15:18:17,Trans-Ekulu,Emeka,Chips & Chicken,5,1300,6500,POS
+380,2026-03-21 15:18:33,New Haven,Adaeze,Jollof Rice,3,850,2550,Transfer
+381,2026-03-21 15:18:48,Independence Layout,Chukwudi,Chapman,1,600,600,POS
+382,2026-03-21 15:19:03,GRA,Adaeze,Peppered Chicken,5,1100,5500,Cash
+383,2026-03-21 15:19:18,Ogui Road,Chioma,Jollof Rice,2,850,1700,Cash
+384,2026-03-21 15:19:33,New Haven,Chukwudi,Chapman,3,600,1800,Cash
+385,2026-03-21 15:19:48,Trans-Ekulu,Uche,Moi Moi,2,500,1000,Transfer
+386,2026-03-21 15:20:03,Ogui Road,Uche,Peppered Chicken,3,1100,3300,Transfer
+387,2026-03-21 15:20:18,New Haven,Emeka,Meat Pie,5,400,2000,Transfer
+388,2026-03-21 15:20:33,GRA,Adaeze,Shawarma,4,1200,4800,POS
+389,2026-03-21 15:20:48,New Haven,Emeka,Peppered Chicken,2,1100,2200,POS
+390,2026-03-21 15:21:03,Independence Layout,Adaeze,Moi Moi,4,500,2000,Transfer
+391,2026-03-21 15:21:18,Ogui Road,Chioma,Jollof Rice,3,850,2550,Cash
+392,2026-03-21 15:21:33,Ogui Road,Ngozi,Fried Rice,2,900,1800,Transfer
+393,2026-03-21 15:21:48,New Haven,Chukwudi,Chips & Chicken,1,1300,1300,Transfer
+394,2026-03-21 15:22:03,Ogui Road,Ngozi,Jollof Rice,5,850,4250,POS
+395,2026-03-21 15:22:18,Independence Layout,Uche,Peppered Chicken,1,1100,1100,POS
+396,2026-03-21 15:22:33,Ogui Road,Chioma,Moi Moi,5,500,2500,POS
+397,2026-03-21 15:22:48,Trans-Ekulu,Uche,Shawarma,1,1200,1200,POS
+398,2026-03-21 15:23:03,Independence Layout,Chioma,Chapman,1,600,600,Cash
+399,2026-03-21 15:23:18,Trans-Ekulu,Ngozi,Chicken Burger,2,1500,3000,POS
+400,2026-03-21 15:23:33,Trans-Ekulu,Uche,Peppered Chicken,3,1100,3300,POS
+401,2026-03-21 15:23:48,GRA,Adaeze,Zobo Drink,3,300,900,Cash
+402,2026-03-21 15:24:03,GRA,Uche,Jollof Rice,3,850,2550,Transfer
+403,2026-03-21 15:24:18,Ogui Road,Ngozi,Jollof Rice,5,850,4250,POS
+404,2026-03-21 15:24:33,Trans-Ekulu,Emeka,Jollof Rice,2,850,1700,Transfer
+405,2026-03-21 15:24:49,GRA,Uche,Moi Moi,3,500,1500,Cash
+406,2026-03-21 15:25:04,GRA,Emeka,Zobo Drink,2,300,600,Transfer
+407,2026-03-21 15:25:19,New Haven,Chukwudi,Moi Moi,2,500,1000,POS
+408,2026-03-21 15:25:34,GRA,Adaeze,Fried Rice,3,900,2700,Transfer
+409,2026-03-21 15:25:49,Trans-Ekulu,Adaeze,Moi Moi,1,500,500,Cash
+410,2026-03-21 15:26:04,Independence Layout,Emeka,Peppered Chicken,1,1100,1100,POS
+411,2026-03-21 15:26:19,Trans-Ekulu,Ngozi,Chips & Chicken,4,1300,5200,Cash
+412,2026-03-21 15:26:34,GRA,Uche,Jollof Rice,4,850,3400,Transfer
+413,2026-03-21 15:26:49,Independence Layout,Chukwudi,Jollof Rice,4,850,3400,Cash
+414,2026-03-21 15:27:04,New Haven,Chukwudi,Peppered Chicken,1,1100,1100,Cash
+415,2026-03-21 15:27:19,New Haven,Emeka,Chips & Chicken,2,1300,2600,Transfer
+416,2026-03-21 15:27:34,Ogui Road,Adaeze,Peppered Chicken,5,1100,5500,Cash
+417,2026-03-21 15:27:49,GRA,Ngozi,Jollof Rice,4,850,3400,POS
+418,2026-03-21 15:28:04,Ogui Road,Uche,Meat Pie,4,400,1600,POS
+419,2026-03-21 15:28:19,Independence Layout,Uche,Fried Rice,4,900,3600,Cash
+420,2026-03-21 15:28:34,Trans-Ekulu,Uche,Chicken Burger,4,1500,6000,Cash
+421,2026-03-21 15:28:49,GRA,Chioma,Moi Moi,4,500,2000,Cash
+422,2026-03-21 15:29:04,Independence Layout,Uche,Zobo Drink,4,300,1200,Transfer
+423,2026-03-21 15:29:19,Ogui Road,Uche,Chapman,1,600,600,Cash
+424,2026-03-21 15:29:34,Ogui Road,Ngozi,Chicken Burger,3,1500,4500,Cash
+425,2026-03-21 15:29:49,New Haven,Chioma,Peppered Chicken,4,1100,4400,Cash
+426,2026-03-21 15:30:04,New Haven,Chioma,Peppered Chicken,3,1100,3300,POS
+427,2026-03-21 15:30:19,New Haven,Adaeze,Moi Moi,5,500,2500,Transfer
+428,2026-03-21 15:30:34,GRA,Chioma,Chicken Burger,5,1500,7500,Cash
+429,2026-03-21 15:30:49,Ogui Road,Emeka,Chips & Chicken,2,1300,2600,Transfer
+430,2026-03-21 15:31:04,Independence Layout,Adaeze,Peppered Chicken,3,1100,3300,Cash
+431,2026-03-21 15:31:19,New Haven,Adaeze,Chips & Chicken,3,1300,3900,Transfer
+432,2026-03-21 15:31:35,New Haven,Ngozi,Shawarma,4,1200,4800,Cash
